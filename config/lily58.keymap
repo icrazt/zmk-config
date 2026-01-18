@@ -15,6 +15,8 @@
             #binding-cells = <0>;
             bindings = <&kp N &kp E &kp K &kp O &kp C &kp H &kp A &kp R &kp M>;
             label = "CC_MACRO";
+            tap-ms = <10>;
+            wait-ms = <10>;
         };
     };
 
